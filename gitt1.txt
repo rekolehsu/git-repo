@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-git11
-=======
-git1
-github
->>>>>>> bb5da4e4b0ac511d6e11013612a3ced7c44a5956
+restory gtt1
